@@ -15,7 +15,7 @@ Utilizei o Chatgpt para criar um resumo do livro e no prompt pedi que a linguage
 ## 🚀 Resultados
 O e-book traz uma visão simplificada de um conteúdo complexo para um público que em sua grande parte possui dificuldade em acompanhar os avanços tecnológicos. A linguagem direta e através de exemplos facilitam o entendimento, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento, adequando a linguagem para o público alvo.
 
-Resumo do Livro A-Tokenizacao-do-Dinheiro.pdf
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão 
 Criar este e-book explorando diferentes formas de escrever um mesmo conteúdo foi interessante, o resultado do primeiro resumo foi complementamente diferente da versão final, quando finalmente decidi refinar e criar algo para um público que tem dificuldade de entender o assunto. 
