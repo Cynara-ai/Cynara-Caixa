@@ -17,5 +17,5 @@ O e-book traz uma visão simplificada de um conteúdo complexo para um público 
 
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar este e-book explorando diferentes formas de escrever um mesmo conteúdo foi interessante, o resultado do primeiro resumo foi complementamente diferente da versão final, quando finalmente decidi refinar e criar algo para um público que tem dificuldade de entender o assunto. 
